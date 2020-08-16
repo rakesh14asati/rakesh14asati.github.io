@@ -1,1 +1,11 @@
-Hi
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "75QSJ8SMAA.com.sap.iosAppTesting",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
